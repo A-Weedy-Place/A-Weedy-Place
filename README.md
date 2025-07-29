@@ -12,7 +12,6 @@
 - 🌱 Currently learning: **Generative AI**, **Climate Modeling & Forecasting**, **Medical Imaging with Deep Learning**
 - 🔭 Open to collaborating on: AI for Social Impact, Climate Tech, and Medical Imaging research
 - 📫 Reach me at: **asharmehmood99@gmail.com**
-- ⚡ Fun Fact: I love turning raw data into real-world insights (and sometimes pretty visualizations 🧠📊)
 
 ---
 
