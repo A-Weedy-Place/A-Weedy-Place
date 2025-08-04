@@ -31,7 +31,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  <img src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_Logo_with_text.png" alt="opencv" width="40" height="40"/>
+  <!--<img src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_Logo_with_text.png" alt="opencv" width="40" height="40"/>-->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -64,4 +64,4 @@
 
 ---
 
-> ⚒️ *Actively building things that help people and the planet. If you have ideas or want to collaborate — let's talk!*
+> ⚒️ *If you have ideas or want to collaborate — let's talk!*
