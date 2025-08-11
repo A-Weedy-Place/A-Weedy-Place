@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ashar Mehmood 👋</h1>
+<h1 align="center">Hi, I'm Ashar Mehmood</h1>
 <h3 align="center">CS Graduate | AI/ML Engineer | Deep Learning Enthusiast | Generative AI Researcher</h3>
 
 <p align="center">
