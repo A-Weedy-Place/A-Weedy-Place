@@ -18,12 +18,12 @@ jobs:
 
     steps:
       - name: Grow light and dark contribution gardens
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/contribution-garden.svg?palette=github-light&color_snake=#F5B642&color_dots=#F5E6C8,#B9D58C,#86B56A,#5F914F,#3D6D3A
-            dist/contribution-garden-dark.svg?palette=github-dark&color_snake=#F5B642&color_dots=#172019,#355848,#568A4B,#7FA650,#A8D36F
+            dist/contribution-garden.gif?color_snake=#F5B642&color_dots=#F5E6C8,#B9D58C,#86B56A,#5F914F,#3D6D3A&color_background=#FFFFFF
+            dist/contribution-garden-dark.gif?color_snake=#F5B642&color_dots=#172019,#355848,#568A4B,#7FA650,#A8D36F&color_background=#0D1117
 
       - name: Publish the garden to the output branch
         uses: crazy-max/ghaction-github-pages@c0d7ff0487ee0415efb7f32dab10ea880330b1dd

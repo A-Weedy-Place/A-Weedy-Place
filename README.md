@@ -27,9 +27,9 @@ Hey, I’m **Ashar Mehmood** — an AI engineer who likes to build (maybe) usefu
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,go,cpp,postgres,docker,fastapi,git,github,kotlin,react,nextjs,godot&perline=13&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,pytorch,go,cpp,postgres,docker,fastapi,git,github,kotlin,react,nextjs,godot&perline=13&theme=light">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,go,cpp,postgres,docker,fastapi,git,github,kotlin,react,nextjs,godot&perline=13&theme=light" alt="Python, PyTorch, Go, C++, PostgreSQL, Docker, FastAPI, Git, GitHub, Kotlin, React, Next.js and Godot">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cpytorch%2Cgo%2Ccpp%2Cpostgres%2Cdocker%2Cfastapi%2Cgit%2Cgithub%2Ckotlin%2Creact%2Cnextjs%2Cgodot&perline=13&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Cpytorch%2Cgo%2Ccpp%2Cpostgres%2Cdocker%2Cfastapi%2Cgit%2Cgithub%2Ckotlin%2Creact%2Cnextjs%2Cgodot&perline=13&theme=light">
+    <img src="https://skillicons.dev/icons?i=python%2Cpytorch%2Cgo%2Ccpp%2Cpostgres%2Cdocker%2Cfastapi%2Cgit%2Cgithub%2Ckotlin%2Creact%2Cnextjs%2Cgodot&perline=13&theme=light" alt="Python, PyTorch, Go, C++, PostgreSQL, Docker, FastAPI, Git, GitHub, Kotlin, React, Next.js and Godot">
   </picture>
 </p>
 
@@ -49,14 +49,12 @@ Hey, I’m **Ashar Mehmood** — an AI engineer who likes to build (maybe) usefu
   </a>
 </p>
 
-<p align="center"><sub>One green square at a time. Apparently this is how motivation works.</sub></p>
-
 ### 🐍 the contribution garden
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/A-Weedy-Place/A-Weedy-Place/output/contribution-garden-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/A-Weedy-Place/A-Weedy-Place/output/contribution-garden.svg">
-  <img alt="A garden snake wandering through Ashar's contribution graph" src="https://raw.githubusercontent.com/A-Weedy-Place/A-Weedy-Place/output/contribution-garden.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/A-Weedy-Place/A-Weedy-Place/output/contribution-garden-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/A-Weedy-Place/A-Weedy-Place/output/contribution-garden.gif">
+  <img alt="A garden snake wandering through Ashar's contribution graph" src="https://raw.githubusercontent.com/A-Weedy-Place/A-Weedy-Place/output/contribution-garden.gif">
 </picture>
 
 <p align="center"><sub>A tiny garden snake tidies this patch every night.</sub></p>
