@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 350" role="img" aria-labelledby="title desc" shape-rendering="crispEdges">
+  <title id="title">Ashar's Quest Board</title>
+  <desc id="desc">A pixel-art wooden notice board with notes for AI and data, brains and learning, climate and maps, and books and games.</desc>
+  <style>
+    .bg { fill: #24372f; } .grass { fill: #4f7847; } .grass-light { fill: #78a358; }
+    .wood-dark { fill: #5b3e2b; } .wood { fill: #805c3c; } .wood-light { fill: #a87b4f; }
+    .paper { fill: #f4dfb3; } .paper-two { fill: #d9e6b0; } .ink { fill: #43372c; } .muted { fill: #655342; }
+    .pin-red { fill: #c85c4b; } .pin-blue { fill: #5a89a8; } .pin-gold { fill: #e3a943; } .pin-green { fill: #6d9b51; } .flower { fill: #f2c45e; }
+    @media (prefers-color-scheme: light) { .bg { fill: #9dc8b0; } .grass { fill: #6f9d55; } .grass-light { fill: #93bd68; } }
+  </style>
+  <rect class="bg" x="4" y="4" width="812" height="342" rx="16"/>
+  <rect class="grass" x="4" y="288" width="812" height="58"/><rect class="grass-light" x="4" y="288" width="812" height="8"/>
+  <rect class="wood-dark" x="74" y="38" width="672" height="266"/><rect class="wood-light" x="86" y="50" width="648" height="242"/>
+  <rect class="wood" x="98" y="62" width="624" height="218"/><rect class="wood-dark" x="108" y="72" width="604" height="198"/>
+  <rect class="wood-dark" x="119" y="304" width="34" height="42"/><rect class="wood" x="126" y="304" width="20" height="42"/>
+  <rect class="wood-dark" x="667" y="304" width="34" height="42"/><rect class="wood" x="674" y="304" width="20" height="42"/>
+
+  <rect class="paper" x="132" y="91" width="245" height="67" transform="rotate(-2 254 124)"/><rect class="pin-red" x="244" y="86" width="12" height="12"/>
+  <text class="ink" x="254" y="119" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="700" shape-rendering="auto">AI + DATA</text>
+  <text class="muted" x="254" y="142" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" shape-rendering="auto">make the messy stuff useful</text>
+
+  <rect class="paper-two" x="438" y="89" width="247" height="70" transform="rotate(2 561 124)"/><rect class="pin-blue" x="554" y="86" width="12" height="12"/>
+  <text class="ink" x="561" y="119" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="700" shape-rendering="auto">BRAINS + LEARNING</text>
+  <text class="muted" x="561" y="142" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" shape-rendering="auto">why do machines forget?</text>
+
+  <rect class="paper-two" x="131" y="184" width="247" height="66" transform="rotate(1.5 254 217)"/><rect class="pin-green" x="248" y="179" width="12" height="12"/>
+  <text class="ink" x="254" y="211" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="700" shape-rendering="auto">CLIMATE + MAPS</text>
+  <text class="muted" x="254" y="233" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" shape-rendering="auto">find patterns in the world</text>
+
+  <rect class="paper" x="438" y="182" width="247" height="69" transform="rotate(-1.5 561 216)"/><rect class="pin-gold" x="555" y="178" width="12" height="12"/>
+  <text class="ink" x="561" y="210" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="700" shape-rendering="auto">BOOKS + GAMES</text>
+  <text class="muted" x="561" y="233" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" shape-rendering="auto">build the things I want to use</text>
+
+  <g transform="translate(36 292)"><rect class="grass-light" x="10" y="12" width="5" height="28"/><rect class="flower" x="3" y="4" width="9" height="9"/><rect class="flower" x="13" y="1" width="9" height="9"/><rect class="flower" x="18" y="11" width="9" height="9"/><rect fill="#8b5a3c" x="11" y="9" width="8" height="8"/></g>
+  <g transform="translate(756 300)"><rect class="grass-light" x="10" y="12" width="5" height="28"/><rect class="flower" x="3" y="4" width="9" height="9"/><rect class="flower" x="13" y="1" width="9" height="9"/><rect class="flower" x="18" y="11" width="9" height="9"/><rect fill="#8b5a3c" x="11" y="9" width="8" height="8"/></g>
+</svg>

@@ -1,67 +1,68 @@
-<h1 align="center">Hi, I'm Ashar Mehmood</h1>
-<h3 align="center">CS Graduate | AI/ML Engineer | Deep Learning Enthusiast | Generative AI Researcher</h3>
+<h1 align="center">Ashar Mehmood</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=a-weedy-place&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
-### 👨‍💻 About Me
-- 🎓 Recent Computer Science Graduate with a passion for **AI**, **Deep Learning**, and **Generative Models**
-- 🌱 Currently learning: **Generative AI**, **Climate Modeling & Forecasting**, **Medical Imaging with Deep Learning**
-- 🔭 Open to collaborating on: AI for Social Impact, Climate Tech, and Medical Imaging research
-- 📫 Reach me at: **asharmehmood99@gmail.com**
-
----
-
-### 🌐 Connect with Me:
-<p>
-  <a href="https://linkedin.com/in/asharmehmood" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://leetcode.com/a_weedy_place" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
-</p>
-
----
-
-### 🧰 Languages & Tools:
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  <!--<img src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_Logo_with_text.png" alt="opencv" width="40" height="40"/>-->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=a-weedy-place&theme=algolia&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a-weedy-place&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <em>AI Engineer · Early Career Researcher</em>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a-weedy-place&theme=tokyonight" />
+  <samp>growing useful things with code + curiosity</samp>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-weedy-place&layout=compact&theme=tokyonight" />
+  🗺️ <a href="https://www.linkedin.com/in/asharmehmood">town map</a> ·
+  📬 <a href="mailto:asharmehmood99@gmail.com">mailbox</a> ·
+  ⛏️ <a href="https://leetcode.com/a_weedy_place">the mines</a> ·
+  🕹️ <a href="https://golgaptcha.itch.io">arcade</a>
 </p>
+
+### 🌱 welcome to the farm
+
+Hey, I’m **Ashar Mehmood** — an AI engineer who likes to build (maybe) useful things, explore odd ideas?, and occasionally wasting my time on a random side quest.
+
+- 🔭 Building with **AI, data, and open-source tools**
+- 🌱 Exploring **NeuroAI, climate, medical imaging, maps, and stories**
+- 💬 Always happy to talk about a strange idea that might actually work
+
+### 🧰 tool shed
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,go,cpp,postgres,docker,fastapi,git,github,kotlin,react,nextjs,godot&perline=13&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,pytorch,go,cpp,postgres,docker,fastapi,git,github,kotlin,react,nextjs,godot&perline=13&theme=light">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,go,cpp,postgres,docker,fastapi,git,github,kotlin,react,nextjs,godot&perline=13&theme=light" alt="Python, PyTorch, Go, C++, PostgreSQL, Docker, FastAPI, Git, GitHub, Kotlin, React, Next.js and Godot">
+  </picture>
+</p>
+
+### 📌 quest board
+
+<p align="center">
+  <img src="./assets/quest-board.svg" width="88%" alt="A pixel-art quest board showing Ashar's current interests">
+</p>
+
+<p align="center"><sub>No project catalogue here — the Repositories tab already does that job.</sub></p>
+
+### 🔥 keep the crops watered
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=A-Weedy-Place&hide_border=true&background=1B241C&ring=A8D36F&fire=F5B642&currStreakLabel=A8D36F&sideLabels=D8C7A1&currStreakNum=FFF4D6&sideNums=FFF4D6&dates=9BA88D" alt="Ashar's GitHub contribution streak">
+  </a>
+</p>
+
+<p align="center"><sub>One green square at a time. Apparently this is how motivation works.</sub></p>
+
+### 🐍 the contribution garden
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/A-Weedy-Place/A-Weedy-Place/output/contribution-garden-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/A-Weedy-Place/A-Weedy-Place/output/contribution-garden.svg">
+  <img alt="A garden snake wandering through Ashar's contribution graph" src="https://raw.githubusercontent.com/A-Weedy-Place/A-Weedy-Place/output/contribution-garden.svg">
+</picture>
+
+<p align="center"><sub>A tiny garden snake tidies this patch every night.</sub></p>
 
 ---
 
-> ⚒️ *If you have ideas or want to collaborate — let's talk!*
+<p align="center">
+  <i>Thanks for visiting the farm. If you find any bugs, consider them as features 🙂.</i> 🌾
+</p>
