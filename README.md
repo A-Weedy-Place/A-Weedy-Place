@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <samp>growing useful things with code + curiosity</samp>
-</p>
-
-<p align="center">
   🗺️ <a href="https://www.linkedin.com/in/asharmehmood">town map</a> ·
   📬 <a href="mailto:asharmehmood99@gmail.com">mailbox</a> ·
   ⛏️ <a href="https://leetcode.com/a_weedy_place">the mines</a> ·
