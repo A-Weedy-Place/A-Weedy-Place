@@ -13,7 +13,7 @@
 
 ### 🌱 welcome to the farm
 
-Hey, I’m **Ashar Mehmood** — an AI engineer who likes to build (maybe) useful things, explore odd ideas?, and occasionally wasting my time on a random side quest.
+Hey, I’m **Ashar Mehmood** - an AI engineer who likes to build (maybe) useful things, explore odd ideas?, and occasionally wasting my time on a random side quest.
 
 - 🔭 Building with **AI, data, and open-source tools**
 - 🌱 Exploring **NeuroAI, climate, medical imaging, maps, and stories**
