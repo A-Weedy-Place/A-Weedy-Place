@@ -58,5 +58,11 @@ Hey, I’m **Ashar Mehmood** - an AI engineer who likes to build (maybe) useful 
 ---
 
 <p align="center">
+https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=A-Weedy-Place&theme=sunset&stats=true&credit=true
+</p>
+
+---
+
+<p align="center">
   <i>Thanks for visiting the farm. If you find any bugs, consider them as features 🙂.</i> 🌾
 </p>
