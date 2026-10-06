@@ -45,16 +45,6 @@ Hey, I’m **Ashar Mehmood** - an AI engineer who likes to build (maybe) useful 
   </a>
 </p>
 
-### 🐍 the contribution garden
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/A-Weedy-Place/A-Weedy-Place/output/contribution-garden-dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/A-Weedy-Place/A-Weedy-Place/output/contribution-garden.gif">
-  <img alt="A garden snake wandering through Ashar's contribution graph" src="https://raw.githubusercontent.com/A-Weedy-Place/A-Weedy-Place/output/contribution-garden.gif">
-</picture>
-
-<p align="center"><sub>A tiny garden snake tidies this patch every night.</sub></p>
-
 ---
 
 <p align="center">
